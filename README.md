@@ -33,8 +33,8 @@ The CLI provides authenticated access to:
 ## 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
-cd <your-project>
+git clone https://github.com/Sevenwings26/insighta-cli-tool.git
+cd insighta-cli-tool
 ```
 
 ---
